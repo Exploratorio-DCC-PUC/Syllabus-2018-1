@@ -1,0 +1,69 @@
+article {
+  background-color: #F5FAFD;
+}
+
+body {
+  margin: 0 auto;
+  padding: 20px 5%;
+  max-width: 80%;
+
+  color: #7C7F82;
+  font-family: "Whitney SSm A", "Whitney SSm B", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+  line-height: 1.5;
+}
+
+footer{
+  margin: 20px auto;
+
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+}
+
+img.banner {
+  width: 100%;
+  margin: 0 auto;
+}
+
+img.other {
+  max-width: 350px;
+  max-height: 350px;
+  padding: 10px;
+
+}
+
+li.out {
+  padding-bottom: 20px;
+}
+
+li.in {
+  font-style: italic;
+}
+
+section {
+  padding: 10px 20px;
+}
+
+section:hover {
+  box-shadow: 2px 3px 10px grey;
+}
+
+section h2 {
+  color: #7AB5AF;
+  font-variant: small-caps;
+}
+
+table, td, th {
+  border: solid 1px grey;
+  border-collapse: collapse;
+}
+
+table {
+  width: 75%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+td, th {
+  padding: 2px 5px;
+}
